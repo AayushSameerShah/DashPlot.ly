@@ -1,0 +1,1 @@
+The new thing is that, app.layout = ... is the page itself which gets executed everytime when we refresh the page!!

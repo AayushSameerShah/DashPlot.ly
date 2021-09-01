@@ -1,0 +1,16 @@
+There are many settings in Layout in 4th Book in this folder
+
+1. Margin (l, b, t, r)
+
+L = Lower
+B = Bottom
+T = Top
+R = Right
+
+0, 1, 10, 20, 100... That way without CSS we can set the margins of that graph
+
+2. X/Y axis visible = False
+    Hides the X / y axis
+
+3. Set the range of X and Y
+4. Width and Height of graph withour css
