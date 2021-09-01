@@ -4,6 +4,9 @@ This repository includes my jupyter notebooks and data which I have created whil
 ### How to Read?
 I have tried as much to structure the repository as readable as possible. The topics are devided into the folders with the respective names. You can take the information rightaway as you open it.
 
+I would suggest you to start with very first `Introducing This One.ipynb` file which introduces the course and stuff.
+
+—
 ### Who is this for?
 This is for me. I mean the language that I have chosen is pointing to me. Because I have created for learning purposes, I have tried to make things so clear and compact that I can visit to 
 some topic later and find it faster.
